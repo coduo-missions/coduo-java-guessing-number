@@ -1,6 +1,12 @@
 # 미션 - 숫자 추리 게임
 ![image](https://github.com/user-attachments/assets/f9f01c0c-bbc4-442c-bb0f-81a6bce3277a)
 
+```
+이 문제는 우아한테크코스 6기 develup 팀으로 부터 지원받았습니다.
+문제 원본 : https://github.com/develup-mission/java-guessing-number
+데벨업 구경 : https://www.devel-up.co.kr/
+```
+
 ## 🚀 진행 방식
 1. 미션 진행은 [미션 진행 가이드 문서](https://github.com/develup-mission/docs/blob/main/mission-guide.md)를 따른다.
 
